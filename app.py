@@ -1,8 +1,5 @@
-
 # This code is from flask-app-ecs repo of tws
-
 from flask import Flask, render_template
-
 
 app = Flask(__name__)
 
